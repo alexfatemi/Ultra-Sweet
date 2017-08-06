@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: cf673cdfb5f76754e926d79a059080bb
+timeCreated: 1501644007
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cartRail
+    100004: cartRail1
+    100006: cartRailHandle
+    100008: cartRailHandle 1
+    100010: cartRailHandle1
+    100012: cartRailHandle1 1
+    100014: cartSpike
+    100016: cartSpike 1
+    100018: cartSpike1
+    100020: cartSpike1 1
+    100022: cartSpike2
+    100024: cartSpike2 1
+    100026: cartSpoke
+    100028: cartSpoke1
+    100030: cartSpoke2
+    100032: cartWheel
+    100034: cartWheel1
+    100036: cartWheel2
+    100038: cartWheel3
+    100040: cartWheel4
+    100042: cartWheel5
+    400000: //RootNode
+    400002: cartRail
+    400004: cartRail1
+    400006: cartRailHandle
+    400008: cartRailHandle 1
+    400010: cartRailHandle1
+    400012: cartRailHandle1 1
+    400014: cartSpike
+    400016: cartSpike 1
+    400018: cartSpike1
+    400020: cartSpike1 1
+    400022: cartSpike2
+    400024: cartSpike2 1
+    400026: cartSpoke
+    400028: cartSpoke1
+    400030: cartSpoke2
+    400032: cartWheel
+    400034: cartWheel1
+    400036: cartWheel2
+    400038: cartWheel3
+    400040: cartWheel4
+    400042: cartWheel5
+    2300000: //RootNode
+    2300002: cartRail
+    2300004: cartRail1
+    2300006: cartRailHandle
+    2300008: cartRailHandle 1
+    2300010: cartRailHandle1
+    2300012: cartRailHandle1 1
+    2300014: cartSpike
+    2300016: cartSpike 1
+    2300018: cartSpike1
+    2300020: cartSpike1 1
+    2300022: cartSpike2
+    2300024: cartSpike2 1
+    2300026: cartSpoke
+    2300028: cartSpoke1
+    2300030: cartSpoke2
+    2300032: cartWheel
+    2300034: cartWheel1
+    2300036: cartWheel2
+    2300038: cartWheel3
+    2300040: cartWheel4
+    2300042: cartWheel5
+    3300000: //RootNode
+    3300002: cartRail
+    3300004: cartRail1
+    3300006: cartRailHandle
+    3300008: cartRailHandle 1
+    3300010: cartRailHandle1
+    3300012: cartRailHandle1 1
+    3300014: cartSpike
+    3300016: cartSpike 1
+    3300018: cartSpike1
+    3300020: cartSpike1 1
+    3300022: cartSpike2
+    3300024: cartSpike2 1
+    3300026: cartSpoke
+    3300028: cartSpoke1
+    3300030: cartSpoke2
+    3300032: cartWheel
+    3300034: cartWheel1
+    3300036: cartWheel2
+    3300038: cartWheel3
+    3300040: cartWheel4
+    3300042: cartWheel5
+    4300000: cart
+    4300002: cartRail
+    4300004: cartSpike
+    4300006: cartSpike1
+    4300008: cartSpike2
+    4300010: cartRailHandle
+    4300012: cartRailHandle1
+    4300014: cartSpoke
+    4300016: cartWheel2
+    4300018: cartWheel5
+    4300020: cartSpoke1
+    4300022: cartWheel1
+    4300024: cartWheel4
+    4300026: cartSpoke2
+    4300028: cartWheel
+    4300030: cartWheel3
+    4300032: cartRail1
+    4300034: cartSpike
+    4300036: cartSpike1
+    4300038: cartSpike2
+    4300040: cartRailHandle
+    4300042: cartRailHandle1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
