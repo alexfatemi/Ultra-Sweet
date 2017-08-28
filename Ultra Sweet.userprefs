@@ -1,17 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Level_Mine\ccGun.cs">
     <Files>
-      <File FileName="Assets\Scripts\colorRandomizer.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\cameraControl.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\cameraControlExample.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\player.cs" Line="409" Column="31" />
       <File FileName="Assets\Scripts\enemy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\hitbox.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\damagingObstacle.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\minecart.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\globals.cs" Line="8" Column="30" />
-      <File FileName="Assets\Scripts\levelGUI.cs" Line="29" Column="9" />
+      <File FileName="Assets\Scripts\Level_Mine\ccGun.cs" Line="52" Column="43" />
+      <File FileName="Assets\Scripts\Global\waitfor.cs" Line="9" Column="22" />
+      <File FileName="Assets\Scripts\Global\genericMotion.cs" Line="32" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
